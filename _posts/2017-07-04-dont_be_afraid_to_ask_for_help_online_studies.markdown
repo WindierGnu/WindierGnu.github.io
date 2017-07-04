@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't be afraid to ask for help.  Online studies. "
-date:   2017-07-04 16:07:50 +0000
+date:   2017-07-04 12:07:51 -0400
 ---
 
  
